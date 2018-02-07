@@ -5,7 +5,7 @@
 # MIT License
 # Copyright 2016-2017 Lehman College City University of New York and the Authors
 #
-# Authors: Kamran Haider, Steven Ramsay, Anthony Cruz Balberdy
+# Authors: Kamran Haider, Steven Ramsey, Anthony Cruz Balberdy, Tom Kurtzman
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -37,8 +37,8 @@ of Water Structure on Protein Active Site Surfaces. J Phys Chem B. 120:8743-8756
 2016. http://dx.doi.org/10.1021/acs.jpcb.6b01094.
 """
 
-__author__ = "Kamran Haider"
-__license__ = "LGPL 2.1"
+__author__ = "Kamran Haider, Anthony Cruz, Steven Ramsey, Tobias Wulsdorf, Tom Kurtzman"
+__license__ = "MIT"
 __maintainer__ = "Kamran Haider"
 __email__ = "kamranhaider.mb@gmail.com"
 
